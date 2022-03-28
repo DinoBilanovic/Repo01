@@ -4,6 +4,8 @@ Shopping list:
 - Bananas;
 - Cherries;
 - Carrots;
+- Strawberries;
+
 
 
 Added folder ex03
